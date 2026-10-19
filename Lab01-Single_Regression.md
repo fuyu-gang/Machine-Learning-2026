@@ -241,6 +241,7 @@ Intercept: 28.0222
 Slope: 1.6667
 
 - nilai prediksi tiap titik testing
+
 | Waktu (menit) | Actual (°C) | Predicted (°C) | Absolute Error (°C) |
 |---:|---:|---:|---:|
 | 1.5 | 30.6 | 30.52 | 0.08 |
